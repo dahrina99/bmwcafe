@@ -1,0 +1,44 @@
+.menu-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+}
+
+.menu-forms .form-group {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    grid-gap: 10px;
+}
+
+.table-secondary {
+    color: white;
+    font-family: poppins;
+    background-color: black;
+}
+
+.table-week {
+    color: black;
+    font-family: poppins;
+}
+
+.important-text {
+    background-image: linear-gradient(to bottom right, #e0e3eb, #fafafc);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+}
+
+.site_title .label1 {
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.title_left {
+    color: black;
+}
+
+.form-control {
+    color: black;
+    font-family: Poppins;
+    font-size: small;
+}
